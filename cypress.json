@@ -1,1 +1,6 @@
-{}
+{
+    "baseUrl": "",
+    "chromeWebSecurity": false
+  
+  }
+  
